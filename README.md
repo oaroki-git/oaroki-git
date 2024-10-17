@@ -4,6 +4,8 @@ the stinky cave for all my stinky goblin trinkets
 
 if you like to run bad, useless and inefficient code on your computer when there are hundreds of better alternatives on this very website, be my guest lol
 
+there is the occasional serious project, though i think i'll move them somewhere else because man this place is stinky xd
+
 #### here is an image summary of my online personality:
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2F-UJf65NkDDkAAAAC%2Fkissing-boys.gif&f=1&nofb=1&ipt=ff14076d5f05ffc917d04b427c185b1471def5b67323f2ca9639881ca3a8f778&ipo=images)
 
