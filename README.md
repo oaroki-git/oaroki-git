@@ -26,6 +26,10 @@ systems i have wrecked before(in the name of optimization):
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-## .. and i'm pretentious as shit about things i don't fully understand
-- i love my Moondrop Aria 2s and i will berate anyone that doesn't use IEMs
+## .. and i'm pretentious as shit about meaningless preferences that everyone is entitled to have but i can police opinions because CLEARLY mine is superior yes not narcissistic at all.
+### this section is also known as "some things about me":
+- i love my Moondrop Aria 2s and i will go out of my way to get someone to get into IEMs whenever audio is mentioned
 - i use [Nushell](https://github.com/nushell/nushell)
+- i am an avid lurker and occasional poster on [r/unixporn](https://reddit.com/r/unixporn)
+- turning a feature off and breaking something is worth it for the satisfaction of having it off as long as it mostly still works
+- they say "a noob admires complexity" and that is exactly right which means i am a **mega** noob which is even more right
