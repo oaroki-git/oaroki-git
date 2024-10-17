@@ -37,4 +37,6 @@ systems i have wrecked before(in the name of optimization):
 - i use [Nushell](https://github.com/nushell/nushell)
 - i am an avid lurker and occasional poster on [r/unixporn](https://reddit.com/r/unixporn)
 - turning a feature off and breaking something is worth it for the satisfaction of having it off as long as it mostly still works
-- they say "a noob admires complexity" and that is exactly right which means i am a **mega** noob which is even more right
+
+### they say "a noob admires complexity" and that is exactly right which means i am a **mega** noob which is even more right
+honestly truly one of the mantras for life of all time
