@@ -17,6 +17,7 @@ end of summary
 
 > [!NOTE]
 > i'm really *really* lazy so i tend to just do everything in Python because it's usually faster(to write)
+> 
 > more of a if it works, it works kind of person (my room can attest to that) even though i'm really into all the workflow guru jazz
 
 ## but i can brick and destroy your system all the same
