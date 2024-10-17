@@ -2,7 +2,8 @@
 
 welcome to the the stinky cave for all my stinky goblin trinkets, little poorly made passion charms i sometimes make and hang on these walls
 
-there is the occasional serious project, though i think i'll move them somewhere else because man this place is a mess xd
+> [!NOTE]
+> there is the occasional serious project, though i think i'll move them somewhere else because man this place is a mess xd
 
 #### here is an image summary of my online personality:
 ![boykisser.jpeg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2F-UJf65NkDDkAAAAC%2Fkissing-boys.gif&f=1&nofb=1&ipt=ff14076d5f05ffc917d04b427c185b1471def5b67323f2ca9639881ca3a8f778&ipo=images)
@@ -14,9 +15,9 @@ end of summary
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-i'm really *really* lazy so i tend to just do everything in Python because it's usually faster(to write)
-
-more of a if it works, it works kind of person (my room can attest to that) even though i'm really into all the workflow guru jazz
+> [!NOTE]
+> i'm really *really* lazy so i tend to just do everything in Python because it's usually faster(to write)
+> more of a if it works, it works kind of person (my room can attest to that) even though i'm really into all the workflow guru jazz
 
 ## but i can brick and destroy your system all the same
 systems i have wrecked before(in the name of optimization):
@@ -38,5 +39,7 @@ systems i have wrecked before(in the name of optimization):
 - i am an avid lurker and occasional poster on [r/unixporn](https://reddit.com/r/unixporn)
 - turning a feature off and breaking something is worth it for the satisfaction of having it off as long as it mostly still works
 
-### they say "a noob admires complexity" and that is exactly right which means i am a **mega** noob which is even more right
-honestly truly one of the mantras for life of all time
+#
+> [!IMPORTANT]
+>  They say "a noob admires complexity" and that is exactly right
+>  which means i am a ***mega*** noob which is even more right
