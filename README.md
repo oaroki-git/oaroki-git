@@ -20,25 +20,12 @@ end of summary
 > 
 > more of a if it works, it works kind of person (my room can attest to that) even though i'm really into all the workflow guru jazz
 
-## but i can brick and destroy your system all the same
-systems i have wrecked before(in the name of optimization):
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-- Asahi linux
-- Nobara linux
-- Ubuntu
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
 ## .. and i'm also pretentious as shit about meaningless preferences that everyone is entitled to have but i have the right police opinions because CLEARLY mine are superior yes not narcissistic at all.
 ### this section is also known as "some things about me":
-- i love my Moondrop Aria 2s and i will go out of my way to get someone to get into IEMs whenever audio is mentioned
-- i use [Nushell](https://github.com/nushell/nushell)
+- i love my Moondrop Aria 2s (that are currently falling apart TWT) and i will go out of my way to get someone to get into IEMs whenever audio is mentioned
+- i use [Nushell](https://github.com/nushell/nushell) for the lulz
+- i run [Asahi Linux](https://asahilinux.org) because linux supremacy, no matter the drawbacks ೕ(･ㅂ･ )
 - i am an avid lurker and occasional poster on [r/unixporn](https://reddit.com/r/unixporn)
-- turning a feature off and breaking something is worth it for the satisfaction of having it off as long as it mostly still works
 
 #
 > [!IMPORTANT]
