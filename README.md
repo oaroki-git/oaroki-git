@@ -20,13 +20,12 @@ end of summary
 no, like seriously idek how to use git or github really
 
 > [!NOTE]
-> i'm really *really* lazy so i tend to just do everything in Python because it's usually faster(to write)
-> 
-> more of a if it works, it works kind of person (my room can attest to that) even though i'm really into all the workflow guru jazz
-
+> I am a beginner of beginners, and my decision of which language to use basically sums up to vibes
+> and it is Rust currently
+ 
 ## .. and i'm also pretentious as shit about meaningless preferences that everyone is entitled to have but i have the right police opinions because CLEARLY mine are superior yes not narcissistic at all.
 ### this section is also known as "some things about me":
-- i love my Moondrop Aria 2s (that are currently falling apart TWT) and i will go out of my way to get someone to get into IEMs whenever audio is mentioned
+- i love my Simgots and i will go out of my way to get someone to get into IEMs whenever audio is mentioned
 - i use [Nushell](https://github.com/nushell/nushell) for the lulz
 - i run [Asahi Linux](https://asahilinux.org) because linux supremacy, no matter the drawbacks ೕ(･ㅂ･ )
 - i am an avid lurker and occasional poster on [r/unixporn](https://reddit.com/r/unixporn)
